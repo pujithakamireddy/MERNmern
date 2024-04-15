@@ -33,12 +33,11 @@ A MERN stack based project on social media application. It is completely working
 - Dark Mode Support in Chat Page
  
 
-=======
+============
 
 # Complete Mern Social Media project
 
 A MERN stack based project on social media application with Realtime Chat. It is completely working project. Its' completely responsive application. MongoDB Express React NodeJs socket-io are user in this project
-
 
 
 ## Features
